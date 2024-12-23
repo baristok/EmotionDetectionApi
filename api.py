@@ -7,7 +7,7 @@ from PIL import Image
 
 app = FastAPI()
 
-model = tf.keras.models.load_model(r'C:\EmotionDetection\emotiondetector.h5')
+model = tf.keras.models.load_model(r'.\emotiondetector.h5')
 haar_file = 'haarcascade_frontalface_default.xml'
 face_cascade = cv2.CascadeClassifier(haar_file)
 
