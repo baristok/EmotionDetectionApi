@@ -1,9 +1,3 @@
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Duygu Tespiti API'si</title>
-</head>
 <body>
     <div class="container">
         <h1>Duygu Tespiti API'si</h1>
