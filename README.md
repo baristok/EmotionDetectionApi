@@ -54,11 +54,9 @@
             <li>Üzgün</li>
             <li>Şaşkın</li>
         </ul>
-
         <h2>API'ye Erişim</h2>
         <p>API şu anda aşağıdaki adreste çalışmaktadır:</p>
         <p><a href="https://emotion.baristok.com.tr" target="_blank">https://emotion.baristok.com.tr</a></p>
-
         <h2>Özellikler</h2>
         <ul>
             <li>Yüklenen gri tonlamalı bir görüntüden duygu tespiti yapar.</li>
@@ -66,7 +64,6 @@
             <li>TensorFlow modeliyle duygu sınıflandırması yapar.</li>
             <li>Basit ve kullanımı kolay bir API uç noktası sunar.</li>
         </ul>
-
         <h2>Gereksinimler</h2>
         <p>Aşağıdaki araç ve kütüphanelerin kurulu olduğundan emin olun:</p>
         <ul>
@@ -77,7 +74,6 @@
             <li>NumPy</li>
             <li>PIL (Pillow)</li>
         </ul>
-
         <h2>Nasıl Çalıştırılır?</h2>
         <ol>
             <li><b>Sunucuyu başlatın:</b>
