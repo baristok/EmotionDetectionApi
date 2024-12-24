@@ -24,7 +24,6 @@
         <h2>Gereksinimler</h2>
         <p>Aşağıdaki araç ve kütüphanelerin kurulu olduğundan emin olun:</p>
         <ul>
-            <li>Python 3.8 veya üzeri</li>
             <li>FastAPI</li>
             <li>TensorFlow</li>
             <li>OpenCV</li>
