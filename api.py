@@ -39,3 +39,7 @@ async def predict_emotion(file: UploadFile = File(...)):
 
     return {"error": "No emotion detected"}
 
+@app.post("/ping")
+async def keep_alive():
+    # Basit bir yanıt döner, bu endpoint API'nin boşa düşmemesi için çağrılır.
+    return {"message": "API is alive"}
